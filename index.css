@@ -1,0 +1,25 @@
+body {
+    border: 5px solid red;
+    background-color:wheat;
+}
+
+h1 {
+    font-style: italic;
+    font-size:90;
+    color:blue;
+}
+p {
+    border:solid red;
+}
+
+ul {
+    font-style: oblique;
+    list-style-type:none;
+}
+li{
+    text-align: center;
+    padding: 5px;
+    margin-bottom:10px;
+    background-color: wheat;
+}
+    
